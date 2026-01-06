@@ -1,13 +1,11 @@
-# 🚀 Nutan Patil | AI & NLP Researcher
+# 🚀 Nutan Patil 
 
 <div align="center">
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7A3EFF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Language+Systems;Specializing+in+LLMs+%26+RAG;Researching+Grounding+%26+Reasoning)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nutan-patil)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail)](mailto:nutan.patil@example.com)
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=Machine+Learning+and+Language+Understanding;Large+Language+Models+and+NLP+Systems;Retrieval-Augmented+and+Interactive+AI)
 
 </div>
+
 
 About Me
 I'm passionate about creating intelligent systems that understand and reason with language. My research focuses on making large language models more grounded, reliable, and context-aware through techniques like retrieval-augmentation and multi-turn reasoning.
