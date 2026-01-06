@@ -1,58 +1,74 @@
-# 🚀 Nutan Patil 
+#  Nutan Patil | Computer Science and Engineering Graduate
 
 <div align="center">
-
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=Machine+Learning+and+Language+Understanding;Large+Language+Models+and+NLP+Systems;Retrieval-Augmented+and+Interactive+AI)
-
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=Machine+Learning+for+Language+Understanding;Large+Language+Models+and+NLP+Systems;Retrieval-Augmented+and+Interactive+AI)
 </div>
 
 
-About Me
-I'm passionate about creating intelligent systems that understand and reason with language. My research focuses on making large language models more grounded, reliable, and context-aware through techniques like retrieval-augmentation and multi-turn reasoning.
+***About Me***
 
-Research Interests: Large language models, retrieval-augmented generation (RAG), multi-turn conversational systems, grounding, reasoning, and evaluation of LLM-based systems.
+I am a Computer Science and Engineering Graduate student driven by a curiosity for how intelligent systems learn, reason, and communicate through language. What draws me to AI is not just building applications, but understanding why models behave the way they do and how they can be made more reliable, grounded, and useful in real interactions.
 
-Technical Stack
-Languages & Tools: Python, Git, Linux, Docker, FastAPI, GitHub Actions
+My interests lie at the intersection of machine learning, deep learning, and large language models, with a growing focus on language understanding, retrieval-augmented systems, and conversational AI. Through hands-on projects, I have explored how models use external knowledge, maintain context across interactions, and balance generation with factual grounding.
 
-ML & NLP: PyTorch, Hugging Face, scikit-learn, Sentence Transformers
+I aspire to pursue graduate-level research in AI, where I can deepen my theoretical foundations while contributing to practical, research-driven systems.
 
-LLMs & RAG: LangChain, LlamaIndex, FAISS, ChromaDB
+***Research & Technical Interests***
 
-Featured Projects
-Retrieval-Augmented Conversational System
-Built a multi-turn dialogue system using document retrieval and LLMs with focus on context tracking, grounding, and hallucination reduction.
+- Machine Learning and Deep Learning 
+- Large Language Models (LLMs)
+-  Natural Language Processing (NLP)
+-  Retrieval-Augmented Generation (RAG) 
+-  Conversational and Interactive AI Systems
+-  Evaluation and reliability of AI models
 
-Tech: LangChain, FAISS, Hugging Face
-https://img.shields.io/badge/View_Code-Repository-7A3EFF
+***Technical Stack***
 
-Dialogue System with Conversation Memory
-Implemented history-aware retrieval for long conversations and compared different memory strategies for dialogue consistency.
+# Programming & Core
+- Python, JavaScript, TypeScript 
+- Git, Linux
+  
+ # ML / DL / NLP 
+ - PyTorch, scikit-learn
+ - Hugging Face, Sentence Transformers
+ 
+# LLMs & AI Systems 
+- LangChain, LlamaIndex
+-  FAISS, ChromaDB
 
-Tech: LangChain, Python
-https://img.shields.io/badge/View_Code-Repository-7A3EFF
+ # Web & Full Stack 
+- HTML, CSS, React
+- Tailwind CSS, MERN Stack
 
-Semantic Search over Documents
-Developed an embedding-based search system for long-form documents with exploration of similarity metrics and chunking strategies.
+ # Backend 
+- FastAPI
+- GitHub Actions
 
-Tech: Sentence Transformers, FAISS
-https://img.shields.io/badge/View_Code-Repository-7A3EFF
+***Featured Projects***
 
-Current Focus
-Studying dialogue systems and multi-turn reasoning
+# Retrieval-Augmented Question Answering System:
+- Built a document-grounded QA system using embeddings and LLMs
+- Focused on reducing hallucinations through retrieval and context grounding
+- Tech: Python, LangChain, FAISS, Hugging Face
 
-Improving grounding and evaluation in RAG-based systems
+# Retrieval-Augmented Question Answering System:
+- Built a document-grounded QA system using embeddings and LLMs
+- Focused on reducing hallucinations through retrieval and context grounding
+- Tech: Python, LangChain, FAISS, Hugging Face
 
-Preparing for graduate-level research in ML/NLP
+# Retrieval-Augmented Question Answering System:
+- Built a document-grounded QA system using embeddings and LLMs
+- Focused on reducing hallucinations through retrieval and context grounding
+- Tech: Python, LangChain, FAISS, Hugging Face
 
-GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Nutanpatil06&show_icons=true&count_private=true
+# Retrieval-Augmented Question Answering System:
+- Built a document-grounded QA system using embeddings and LLMs
+- Focused on reducing hallucinations through retrieval and context grounding
+- Tech: Python, LangChain, FAISS, Hugging Face
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Nutanpatil06&layout=compact
 
-</div>
-Connect
-Email: nutan.patil@example.com
-LinkedIn: https://linkedin.com/in/nutan-patil
-GitHub: https://github.com/Nutanpatil06
+***Current Focus***
+
+- Strengthening fundamentals in ML and deep learning
+- Exploring LLM-based systems with retrieval and reasoning
+-  Preparing for graduate research in AI and NLP
