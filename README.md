@@ -1,10 +1,6 @@
 <div align="center">
 
 # Nutan Patil
-
-</div>
-
-<div align="center">
   
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=AI+for+Precision+Medicine;Machine+Learning+in+Healthcare;Building+Bridges+Through+Technology)
 
