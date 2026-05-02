@@ -70,7 +70,7 @@ AI-powered wellness platform combining Korean and Indian traditional medicine to
 Real-time video analytics system for detecting and flagging unauthorized activities in public parks using computer vision.
 
 **Tech Stack:** Python, YOLO/SSD, Streamlit, OpenCV, TensorFlow/PyTorch  
-
+🔗 https://github.com/Nutanpatil06/AI-Enabled-Surveillance-Platform-for-Public-Parks-with-Behavioral-Based-Safety-Monitoring
 ---
 
 ### 4. Fine-Tuning LLM with LLaMA Factory
