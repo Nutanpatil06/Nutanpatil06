@@ -1,116 +1,104 @@
 <div align="center">
 
 # Nutan Patil
-  
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=AI+for+Precision+Medicine;Machine+Learning+in+Healthcare;Building+Bridges+Through+Technology)
 
 </div>
 
----
+<div align="center">
 
-## About Me
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=Full-Stack+Development+and+AI+Systems;Machine+Learning+and+Large+Language+Models;Retrieval-Augmented+and+Intelligent+Applications)
 
-I am a Computer Science and Engineering graduate focused on applying artificial intelligence to healthcare and medicine. My work sits at the intersection of machine learning, biomedical data, and clinical applications. I am particularly interested in how AI can support early diagnosis, personalized treatment, and better patient outcomes.
+</div>
 
-My interest in medical AI grew from watching technology solve everyday problems. I saw how the same tools could do more. This led me to explore deep learning for physiological data, retrieval systems for medical knowledge, and platforms that connect traditional medicine with modern AI.
+# About Me
+I am a Computer Science and Engineering graduate interested in building intelligent and scalable software systems that combine modern web technologies with AI. My focus is on understanding how machine learning models work and applying them to real-world applications that are reliable, interactive, and user-centered.
 
-I am now preparing for graduate studies in Biomedical Science, where I aim to build AI systems grounded in real clinical needs and designed to serve patients.
+I am particularly interested in full-stack development, machine learning, and AI systems involving language understanding and retrieval-based architectures. I aim to contribute to practical, research-driven systems while strengthening my foundation in software engineering and artificial intelligence.
 
----
+# Technical Interests
+- Full-Stack Web Development
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Intelligent and Scalable Systems
 
-## Research Interests
+# Technical Stack
 
-- Medical AI and Healthcare Analytics
-- Precision Medicine and Personalized Treatment
-- Deep Learning for Physiological Time-Series Analysis
-- Clinical Decision Support Systems
-- Retrieval-Augmented Generation for Medical Knowledge
-- Traditional Medicine and Modern AI Integration
+**Programming Languages:**  
+Python, JavaScript, TypeScript
 
----
+**Frontend Development:**  
+React.js, Next.js, HTML, CSS, Tailwind CSS  
 
-## Technical Skills
+**Backend Development:**  
+Node.js, Express.js  
 
-**Languages**
-- Python, JavaScript, TypeScript
+**Databases:**  
+MongoDB, MySQL, PostgreSQL  
 
-**ML & Deep Learning**
-- PyTorch, scikit-learn
-- Hugging Face, Sentence Transformers
+**AI / ML:**  
+Machine Learning, Deep Learning, NLP, TensorFlow, OpenAI API, RAG Systems  
 
-**AI Systems**
-- LangChain, LlamaIndex
-- FAISS, ChromaDB
+**Tools & Platforms:**  
+Git, GitHub, Postman, VS Code  
 
-**Backend & Tools**
-- FastAPI
-- Git, Linux, GitHub Actions
-
----
-
-## Featured Projects
-
-### Indo-Korean Traditional Medicine Advisor
-*AI-powered platform connecting two medical traditions*
-
-- Built an intelligent system that maps herbal remedies between Traditional Korean Medicine and Indian Traditional Medicine
-- Developed algorithms to provide personalized recommendations based on user symptoms and health profiles
-- Explored how AI can bridge cultural and medical knowledge systems
-- This project shaped my direction toward biomedical research and medical AI
-
-*Tech: Next.js, TypeScript, Tailwind CSS, GSAP, Framer Motion, Zustand, Chart.js, React Three Fiber, Python, LangChain, FastAPI*
+**Cloud & Deployment:**  
+AWS (basic), Vercel, Netlify  
 
 ---
 
-### RAG-Based Medical Chatbot with Memory
-*Context-aware system for health information retrieval*
+# Featured Projects
 
-- Built a retrieval-augmented chatbot that maintains conversation context across sessions
-- Implemented history-aware query reformulation to handle follow-up medical questions without repetition
-- Reduced user friction by 40% in testing scenarios by remembering previous symptoms and concerns
+### 1. VahanIQ (Vehicle Intelligence System)
+Built a full-stack vehicle intelligence platform integrating real-time parking detection, vehicle monitoring, and smart navigation for urban mobility.
 
-*Tech: LangChain, FAISS, Python, Hugging Face*
-
----
-
-### Vehicle Intelligence System (VahanIQ)
-*Real-time vehicle management and predictive maintenance*
-
-- Developed a web application with live GPS tracking and predictive maintenance dashboard
-- Created a computer vision module for parking availability detection
-- Focused on building user-centered tools that solve real-world problems
-
-*Tech: TypeScript, React, Node.js, OpenCV*
+**Tech Stack:** React, TypeScript, Node.js, Express.js, PostgreSQL (Supabase), Redis, WebSockets, Leaflet, JWT  
+🔗 https://github.com/Nutanpatil06/Vehicle_Intelligence_System
 
 ---
 
-### Fine-Tuning LLMs with LLaMA Factory
-*Efficient model adaptation for domain-specific tasks*
+### 2. InKo – Indo-Korean Traditional Medicine Advisor
+AI-powered wellness platform combining Korean and Indian traditional medicine to provide safe, personalized herbal recommendations and symptom tracking.
 
-- Engineered a dual-interface fine-tuning system reducing training memory usage by 70% using 4-bit quantization
-- Built both a Gradio WebUI for experimentation and a YAML-based CLI for reproducible production workflows
-- Adapted models like Gemma and Mistral for specialized applications
-
-*Tech: PyTorch, LLaMA Factory, Gradio, Hugging Face*
+**Tech Stack:** React, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, TypeScript, Python, TensorFlow, OpenAI API  
+🔗 https://github.com/Nutanpatil06/Indo-Korean_Traditional_Medicine_Advisor
 
 ---
 
-### Advanced RAG with Sentence Window Retrieval
-*Improved context accuracy in retrieval systems*
+### 3. AI-Powered Park Surveillance System
+Real-time video analytics system for detecting and flagging unauthorized activities in public parks using computer vision.
 
-- Implemented sentence window retrieval, improving contextual accuracy by 40% compared to traditional chunk-based methods
-- Built scalable vector search pipeline using Qdrant, reducing query latency by 30%
-- Designed comparative architecture to evaluate retrieval strategies
-
-*Tech: LangChain, Qdrant, Python*
+**Tech Stack:** Python, YOLO/SSD, Streamlit, OpenCV, TensorFlow/PyTorch  
 
 ---
 
-## Current Focus
+### 4. Fine-Tuning LLM with LLaMA Factory
+Built an efficient LLM fine-tuning pipeline using LoRA/QLoRA for memory-optimized model adaptation.
 
-- Deepening knowledge in physiology, genomics, and clinical study design for medical AI applications
-- Exploring deep learning models for ICU time-series data to detect early signs of deterioration
-- Preparing for graduate research in Biomedical Science with a focus on precision medicine
-- Building bridges between Korean and Indian medical knowledge through AI
+**Tech Stack:** Hugging Face Transformers, PEFT (LoRA/QLoRA), Gradio  
+🔗 https://github.com/Nutanpatil06/Fine-Tuning-LLM-with-LLaMA-Factory
 
 ---
+
+### 5. RAG-Based Chatbot with Memory
+Developed a context-aware chatbot with memory-augmented retrieval for multi-turn conversations.
+
+**Tech Stack:** Python, LangChain, Google Gemini API, ChromaDB, BeautifulSoup  
+🔗 https://github.com/Nutanpatil06/RAG_Based_Chatbot_With_Memory
+
+---
+
+### 6. Advanced RAG with Sentence Window Retrieval
+Built a document Q&A system improving contextual accuracy using advanced retrieval strategies.
+
+**Tech Stack:** LlamaIndex, Qdrant, Gemini LLM, HuggingFace Embeddings  
+🔗 https://github.com/Nutanpatil06/Advanced_RAG_With_Sentence_Window_Retrieval
+
+---
+
+# Current Focus
+- Strengthening fundamentals in Machine Learning and Deep Learning  
+- Building scalable AI-powered web applications  
+- Exploring Retrieval-Augmented Generation systems  
+- Preparing for graduate studies in AI and intelligent systems  
