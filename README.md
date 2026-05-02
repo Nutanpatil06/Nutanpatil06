@@ -1,8 +1,8 @@
 <div align="center">
-**👋 Nutan Patil**
-</div>
 
-<div align="center">
+# Nutan Patil
+
+</div>
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=Full-Stack+Development+and+AI+Systems;Machine+Learning+and+LLM+Applications;Retrieval-Augmented+and+Intelligent+Systems)
 
